@@ -28,9 +28,7 @@ header {
     background-color: #000000;
   }
   
-  li {
-    float: center;
-  }
+ 
   
   li a {
     display: block;
@@ -243,7 +241,7 @@ footer {
     color: black;
     background-color:#30412bc0;
     padding: 0.5px;
-    margin-top: 15px;
+    margin-top: 40px;
     font-size: small;
    
     width: 100%;
@@ -263,15 +261,14 @@ footer {
       .kuva {
         float: left;
         padding-bottom: 150px;
-        margin-right: -35px;
-        margin-top: 70px;
+        margin-left:  20px;
      
      
       }
 
       footer {
-        position: bottom;
-        margin-top: 300px;
+        
+        margin-top: 150px;
         
       }
       section {
