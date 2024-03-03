@@ -107,11 +107,11 @@ header {
 
  
 section {
-    width: 60%;
+    width: 80%;
     max-width: 900px;
     margin: auto;
     font-size: 18px;
-    text-align: justify;
+   
 
    /* border: 1px;
     border-color: black;
@@ -226,7 +226,7 @@ label {
   display: block;
   margin: 0.5rem 0;
   padding: 80px;
-
+ 
    
    
 }
