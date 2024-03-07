@@ -69,6 +69,7 @@ header {
    margin-left: auto;
    margin-right: auto;
    margin-top: 30px;
+ 
    
     
  }
@@ -241,7 +242,7 @@ footer {
     color: black;
     background-color:#30412bc0;
     padding: 0.5px;
-    margin-top: 40px;
+    margin-top: 95px;
     font-size: small;
    
     width: 100%;
